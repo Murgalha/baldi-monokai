@@ -10,7 +10,7 @@
     "categories": [
         "Themes"
 	],
-	"icon": "https://user-images.githubusercontent.com/23103524/36647520-8c9ea82c-1a65-11e8-8ee1-e45733a2d85b.png",
+	"icon": "icon.png",
     "contributes": {
         "themes": [
             {
@@ -25,5 +25,9 @@
 		"monokai",
 		"baldi monokai",
 		"baldimonokai"
-	]
+	],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Murgalha/baldi-monokai"
+    }
 }
