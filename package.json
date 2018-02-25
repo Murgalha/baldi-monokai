@@ -1,0 +1,29 @@
+{
+    "name": "baldi-monokai",
+	"displayName": "Baldi Monokai",
+    "description": "Monokai with a few tweaks",
+    "version": "1.0.0",
+    "publisher": "murilobaldi",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+	],
+	"icon": "https://user-images.githubusercontent.com/23103524/36647520-8c9ea82c-1a65-11e8-8ee1-e45733a2d85b.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Baldi Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/baldi-monokai-color-theme.json"
+            }
+        ]
+	},
+	"keywords": [
+		"baldi",
+		"monokai",
+		"baldi monokai",
+		"baldimonokai"
+	]
+}
