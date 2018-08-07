@@ -4,7 +4,7 @@
 
 ## Screenshots
 ### C
-![c_screenshot](https://user-images.githubusercontent.com/23103524/43728476-a27406de-997b-11e8-8629-97139bd01880.png)
+![c_screenshot](https://user-images.githubusercontent.com/23103524/43790891-54b94088-9a4a-11e8-9ba2-d9afdab9c974.png)
 
 ### Objective C
 ![objc_screenshot](https://user-images.githubusercontent.com/23103524/43728563-e02e4250-997b-11e8-9228-d225087bf3bc.png)
